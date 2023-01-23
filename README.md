@@ -41,9 +41,9 @@ Awesome list of learn materials on Git.
 
 ## GIT Certification
 
-- ⭐ [Source Control Management with Git](https://training.linuxfoundation.org/certification/git/?SSAID=746540&sscid=11k7_os2de) (_cource_)(_certification_)
-- [Foundations of Git](https://learn.gitkraken.com/courses/git-foundations) (_cource_)(_certification_)
-- [GitLab Certified Git Associate](https://about.gitlab.com/services/education/gitlab-certified-associate/) (_official_)(_cource_)(_certification_)
+- ⭐ [Source Control Management with Git](https://training.linuxfoundation.org/certification/git/?SSAID=746540&sscid=11k7_os2de) (_cource_) (_certification_)
+- [Foundations of Git](https://learn.gitkraken.com/courses/git-foundations) (_cource_) (_certification_)
+- [GitLab Certified Git Associate](https://about.gitlab.com/services/education/gitlab-certified-associate/) (_official_) (_cource_) (_certification_)
 
 ## Cheatsheets
 
