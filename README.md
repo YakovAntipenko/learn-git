@@ -56,4 +56,3 @@ Awesome list of learn materials on Git.
 - ( _official_ ) - official material
 - ( _non-eng_ ) - non-english language
 - ( _course_ ) - consists of series of text/video articles trying to give to a reader solid foundation
-- ( _certification_ ) - formal attestation to validate your proficiency through exams 
